@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="runtime:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="QueueApp.war">
+      <element id="artifact" artifact-name="runtime:war exploded" />
+    </root>
+  </artifact>
+</component>

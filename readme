@@ -1,0 +1,26 @@
+http://localhost:8080/TAPAS/jobQueueStatus/api/v1/getStatusByRef/PriorityAwareQueuedMailService/QUEUED-a14f462f-2eba-432a-8cac-3572b19ab3e3
+
+http://localhost:8080/TAPAS/jobQueueStatus/api/v1/getStatusById/9693
+
+http://localhost:8080/TAPAS/jobQueueStatus/api/v1/getStatusByDate/PriorityAwareQueuedMailService?startDate=2019-06-01 00:00:00.000&endDate=2019-06-13 00:00:00.000
+
+http://localhost:8080/TAPAS/msgQueueStatus/api/v1/getStatusByRef/PAYMENT_REJECTION_QUEUE/04092b20-6647-4d21-9a6b-1411715e9e35
+
+http://localhost:8080/TAPAS/msgQueueStatus/api/v1/getStatusByRef/blah/1212
+
+http://localhost:8080/TAPAS/msgQueueStatus/api/v1/getStatusById/3558
+
+http://localhost:8080/TAPAS/msgQueueStatus/api/v1/getStatusByDate/SVU_OUTBOUND_QUEUE?startDate=2019-06-01 00:00:00.000&endDate=2019-06-13 00:00:00.000
+
+http://localhost:8080/TAPAS/msgQueueStatus/api/v1/getStatusByDate/SVU_OUTBOUND_QUEUE?startDate=2019-05-01 00:00:00.000&endDate=2019-05-13 00:00:00.000
+
+--------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------
+# create a project folder "queueapp"
+# create 2 folders in it - env-lib and runtime
+# check out project pom to queueapp
+# checkout env-lib to env-lib folder
+# checkout queue-app to runtime folder
+# update env-lib pom to point to queue-app as parent pom
+# build and run

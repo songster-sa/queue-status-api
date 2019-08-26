@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.pd4ml:pd4ml:3.5.1b1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/pd4ml/pd4ml/3.5.1b1/pd4ml-3.5.1b1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/pd4ml/pd4ml/3.5.1b1/pd4ml-3.5.1b1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/pd4ml/pd4ml/3.5.1b1/pd4ml-3.5.1b1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
